@@ -1,0 +1,10 @@
+{
+  "name": "three-test",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.13"
+  },
+  "scripts": {
+    "start": "browser-sync start --config bs-config.js"
+  }
+}
